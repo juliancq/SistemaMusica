@@ -1,0 +1,548 @@
+# depslib dependency file v1.0
+1604100954 source:c:\users\mateo\desktop\tp final\comprobaciondatos.c
+	<stdio.h>
+	<malloc.h>
+	"ComprobacionDatos.h"
+
+1604100954 c:\users\mateo\desktop\tp final\comprobaciondatos.h
+	"ComprobacionDatos.h"
+
+1604102636 source:c:\users\mateo\desktop\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1604188960 source:c:\users\usuario\desktop\programacion agus\tp final\comprobaciondatos.c
+	"ComprobacionDatos.h"
+
+1604188960 c:\users\usuario\desktop\programacion agus\tp final\comprobaciondatos.h
+	<stdio.h>
+	<malloc.h>
+
+1604274178 source:c:\users\usuario\desktop\programacion agus\tp final\listassimples.c
+	"ListasSimples.h"
+
+1604274173 c:\users\usuario\desktop\programacion agus\tp final\listassimples.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Arbol.h"
+
+1604265299 source:c:\users\usuario\desktop\programacion agus\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arbol.h"
+
+1604274173 c:\users\usuario\desktop\programacion agus\tp final\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1604184716 source:c:\users\usuario\desktop\programacion agus\tp final\menu.c
+	"Menu.h"
+
+1604184716 c:\users\usuario\desktop\programacion agus\tp final\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1604274229 source:c:\users\usuario\desktop\programacion agus\tp final\arbol.c
+	"Arbol.h"
+
+1604520713 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final\arbol.c
+	"Arbol.h"
+
+1604521184 c:\users\esteban\desktop\programación utn\programacion 2\tp final\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1604188960 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final\comprobaciondatos.c
+	"ComprobacionDatos.h"
+
+1604188960 c:\users\esteban\desktop\programación utn\programacion 2\tp final\comprobaciondatos.h
+	<stdio.h>
+	<malloc.h>
+
+1604450153 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final\menu.c
+	"Menu.h"
+
+1604439876 c:\users\esteban\desktop\programación utn\programacion 2\tp final\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"CeldasUsuario.h"
+
+1604357694 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final\listascancion.c
+	"ListasCancion.h"
+
+1604609759 c:\users\esteban\desktop\programación utn\programacion 2\tp final\listascancion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArbolCanciones.h"
+
+1604618648 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CeldasUsuario.h"
+	"Menu.h"
+	"ComprobacionDatos.h"
+
+1604611165 c:\users\esteban\desktop\programación utn\programacion 2\tp final\celdasusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListasCancion.h"
+
+1604617132 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final\celdausuario.c
+	"CeldasUsuario.h"
+
+1604612337 c:\users\esteban\desktop\programación utn\programacion 2\tp final\arbolcanciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604618055 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final\arbolcanciones.c
+	"ArbolCanciones.h"
+
+1604188960 source:c:\users\julian\desktop\tp final 13-11\comprobaciondatos.c
+	"ComprobacionDatos.h"
+
+1604188960 c:\users\julian\desktop\tp final 13-11\comprobaciondatos.h
+	<stdio.h>
+	<malloc.h>
+
+1604357694 source:c:\users\julian\desktop\tp final 13-11\listascancion.c
+	"ListasCancion.h"
+
+1604609759 c:\users\julian\desktop\tp final 13-11\listascancion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArbolCanciones.h"
+
+1604612337 c:\users\julian\desktop\tp final 13-11\arbolcanciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604450153 source:c:\users\julian\desktop\tp final 13-11\menu.c
+	"Menu.h"
+
+1604439876 c:\users\julian\desktop\tp final 13-11\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"CeldasUsuario.h"
+
+1605467992 c:\users\julian\desktop\tp final 13-11\celdasusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListasCancion.h"
+
+1605468945 source:c:\users\julian\desktop\tp final 13-11\arbolcanciones.c
+	"ArbolCanciones.h"
+
+1605470740 source:c:\users\julian\desktop\tp final 13-11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CeldasUsuario.h"
+	"Menu.h"
+	"ComprobacionDatos.h"
+
+1605468063 source:c:\users\julian\desktop\tp final 13-11\celdausuario.c
+	"CeldasUsuario.h"
+
+1605732730 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\arbolcanciones.c
+	"ArbolCanciones.h"
+
+1605732762 c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\arbolcanciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605731351 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\celdausuario.c
+	"CeldasUsuario.h"
+
+1605655239 c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\celdasusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListasCancion.h"
+
+1604609759 c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\listascancion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArbolCanciones.h"
+
+1604188960 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\comprobaciondatos.c
+	"ComprobacionDatos.h"
+
+1604188960 c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\comprobaciondatos.h
+	<stdio.h>
+	<malloc.h>
+
+1605727159 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\listascancion.c
+	"ListasCancion.h"
+
+1605731467 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\menu.c
+	"Menu.h"
+
+1604439876 c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"CeldasUsuario.h"
+
+1605727159 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\funcadmin.c
+	"FuncAdmin.h"
+
+1605726504 c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\funcadmin.h
+	<stdio.h>
+	<stdlib.h>
+	"CeldasUsuario.h"
+
+1605732982 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncAdmin.h"
+	"Menu.h"
+	"ComprobacionDatos.h"
+
+1605733030 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\funcusuario.c
+	"FuncUsuario.h"
+
+1605731467 c:\users\esteban\desktop\programación utn\programacion 2\tp final 15 -11\funcusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"FuncUsuario.h"
+	"CeldasUsuario.h"
+	"ArbolCanciones.h"
+
+1605732730 source:c:\users\julian\desktop\x\tp final 15 -11\arbolcanciones.c
+	"ArbolCanciones.h"
+
+1605732762 c:\users\julian\desktop\x\tp final 15 -11\arbolcanciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605731351 source:c:\users\julian\desktop\x\tp final 15 -11\celdausuario.c
+	"CeldasUsuario.h"
+
+1605735516 c:\users\julian\desktop\x\tp final 15 -11\celdasusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListasCancion.h"
+
+1604609759 c:\users\julian\desktop\x\tp final 15 -11\listascancion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArbolCanciones.h"
+
+1604188960 source:c:\users\julian\desktop\x\tp final 15 -11\comprobaciondatos.c
+	"ComprobacionDatos.h"
+
+1604188960 c:\users\julian\desktop\x\tp final 15 -11\comprobaciondatos.h
+	<stdio.h>
+	<malloc.h>
+
+1605727159 source:c:\users\julian\desktop\x\tp final 15 -11\funcadmin.c
+	"FuncAdmin.h"
+
+1605726504 c:\users\julian\desktop\x\tp final 15 -11\funcadmin.h
+	<stdio.h>
+	<stdlib.h>
+	"CeldasUsuario.h"
+
+1605727159 source:c:\users\julian\desktop\x\tp final 15 -11\listascancion.c
+	"ListasCancion.h"
+
+1605734591 source:c:\users\julian\desktop\x\tp final 15 -11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncAdmin.h"
+	"Menu.h"
+	"ComprobacionDatos.h"
+
+1604439876 c:\users\julian\desktop\x\tp final 15 -11\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"CeldasUsuario.h"
+
+1605733674 source:c:\users\julian\desktop\x\tp final 15 -11\menu.c
+	"Menu.h"
+
+1605734446 source:c:\users\julian\desktop\x\tp final 15 -11\funcusuario.c
+	"FuncUsuario.h"
+
+1605734370 c:\users\julian\desktop\x\tp final 15 -11\funcusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"FuncUsuario.h"
+	"CeldasUsuario.h"
+	"ArbolCanciones.h"
+
+1605819722 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\celdausuario.c
+	"CeldasUsuario.h"
+
+1605750351 c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\celdasusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListasCancion.h"
+
+1604609759 c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\listascancion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArbolCanciones.h"
+
+1605832568 c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\arbolcanciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604188960 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\comprobaciondatos.c
+	"ComprobacionDatos.h"
+
+1604188960 c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\comprobaciondatos.h
+	<stdio.h>
+	<malloc.h>
+
+1605815215 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\funcusuario.c
+	"FuncUsuario.h"
+
+1605815135 c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\funcusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"FuncUsuario.h"
+	"CeldasUsuario.h"
+	"ArbolCanciones.h"
+
+1605834096 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncAdmin.h"
+	"Menu.h"
+	"ComprobacionDatos.h"
+
+1605726504 c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\funcadmin.h
+	<stdio.h>
+	<stdlib.h>
+	"CeldasUsuario.h"
+
+1605819157 c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"CeldasUsuario.h"
+
+1605833910 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\arbolcanciones.c
+	"ArbolCanciones.h"
+
+1605815056 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\funcadmin.c
+	"FuncAdmin.h"
+
+1605735968 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\listascancion.c
+	"ListasCancion.h"
+
+1605819722 source:c:\users\esteban\desktop\programación utn\programacion 2\tp final 18 -11\menu.c
+	"Menu.h"
+
+1605736538 source:c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\arbolcanciones.c
+	"ArbolCanciones.h"
+
+1605732762 c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\arbolcanciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605750340 source:c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\celdausuario.c
+	"CeldasUsuario.h"
+
+1605750351 c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\celdasusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListasCancion.h"
+
+1604609759 c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\listascancion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArbolCanciones.h"
+
+1604188960 source:c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\comprobaciondatos.c
+	"ComprobacionDatos.h"
+
+1604188960 c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\comprobaciondatos.h
+	<stdio.h>
+	<malloc.h>
+
+1605744113 source:c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\funcusuario.c
+	"FuncUsuario.h"
+
+1605744558 c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\funcusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"FuncUsuario.h"
+	"CeldasUsuario.h"
+	"ArbolCanciones.h"
+
+1605735968 source:c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\listascancion.c
+	"ListasCancion.h"
+
+1605750365 source:c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncAdmin.h"
+	"Menu.h"
+	"ComprobacionDatos.h"
+
+1605726504 c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\funcadmin.h
+	<stdio.h>
+	<stdlib.h>
+	"CeldasUsuario.h"
+
+1605755141 c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"CeldasUsuario.h"
+
+1605757600 source:c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\menu.c
+	"Menu.h"
+
+1605757302 source:c:\users\julian\desktop\nueva carpeta (3)\tp final 18 -11\funcadmin.c
+	"FuncAdmin.h"
+
+1605815088 source:c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\arbolcanciones.c
+	"ArbolCanciones.h"
+
+1605815073 c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\arbolcanciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605819722 source:c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\celdausuario.c
+	"CeldasUsuario.h"
+
+1605750351 c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\celdasusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListasCancion.h"
+
+1604609759 c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\listascancion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArbolCanciones.h"
+
+1604188960 source:c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\comprobaciondatos.c
+	"ComprobacionDatos.h"
+
+1604188960 c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\comprobaciondatos.h
+	<stdio.h>
+	<malloc.h>
+
+1605815056 source:c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\funcadmin.c
+	"FuncAdmin.h"
+
+1605726504 c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\funcadmin.h
+	<stdio.h>
+	<stdlib.h>
+	"CeldasUsuario.h"
+
+1605815215 source:c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\funcusuario.c
+	"FuncUsuario.h"
+
+1605815135 c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\funcusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"FuncUsuario.h"
+	"CeldasUsuario.h"
+	"ArbolCanciones.h"
+
+1605735968 source:c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\listascancion.c
+	"ListasCancion.h"
+
+1605815315 source:c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncAdmin.h"
+	"Menu.h"
+	"ComprobacionDatos.h"
+
+1605819157 c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"CeldasUsuario.h"
+
+1605819722 source:c:\users\julian\desktop\nueva carpeta (4)\tp final 18 -11\menu.c
+	"Menu.h"
+
+1605834401 source:c:\users\julian\desktop\tp final castro-rizzo-paz\tpfinalcastro-rizzo-paz\celdausuario.c
+	"CeldasUsuario.h"
+
+1605750351 c:\users\julian\desktop\tp final castro-rizzo-paz\tpfinalcastro-rizzo-paz\celdasusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListasCancion.h"
+
+1604609759 c:\users\julian\desktop\tp final castro-rizzo-paz\tpfinalcastro-rizzo-paz\listascancion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArbolCanciones.h"
+
+1605832568 c:\users\julian\desktop\tp final castro-rizzo-paz\tpfinalcastro-rizzo-paz\arbolcanciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604188960 source:c:\users\julian\desktop\tp final castro-rizzo-paz\tpfinalcastro-rizzo-paz\comprobaciondatos.c
+	"ComprobacionDatos.h"
+
+1604188960 c:\users\julian\desktop\tp final castro-rizzo-paz\tpfinalcastro-rizzo-paz\comprobaciondatos.h
+	<stdio.h>
+	<malloc.h>
+
+1605735968 source:c:\users\julian\desktop\tp final castro-rizzo-paz\tpfinalcastro-rizzo-paz\listascancion.c
+	"ListasCancion.h"
+
+1605834096 source:c:\users\julian\desktop\tp final castro-rizzo-paz\tpfinalcastro-rizzo-paz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncAdmin.h"
+	"Menu.h"
+	"ComprobacionDatos.h"
+
+1605726504 c:\users\julian\desktop\tp final castro-rizzo-paz\tpfinalcastro-rizzo-paz\funcadmin.h
+	<stdio.h>
+	<stdlib.h>
+	"CeldasUsuario.h"
+
+1605819157 c:\users\julian\desktop\tp final castro-rizzo-paz\tpfinalcastro-rizzo-paz\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"CeldasUsuario.h"
+
