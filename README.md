@@ -1,12 +1,14 @@
 # SistemaMusica
-1. Ingreso al sistema.
+
+INGRESO AL SISTEMA
 En esta pantalla el usuario tiene la opción de alternar entre 3 opciones en las cuales puede elegir:
 1) Iniciar sesión como administrador.
 2) Iniciar sesión como usuario.
 3) Registrarse.
 
-2. Navegación por el sistema.
+NAVEGACION
 En cada inicio de sesión tanto en administrador, como en usuario el sistema posee un filtro en donde verifica con un usuario y una contraseña los usuarios registrados previamente para poder ingresar al sistema, por eso es fundamental registrarse como primer paso.
+
 ADMINISTRADOR:
 En esta pantalla el administrador tiene la opción de alternar entre 2 menús con 4 opciones cada uno las cuales las elige según sus necesidades Entre ellas se encuentran:
 1) Funciones sobre usuarios.
