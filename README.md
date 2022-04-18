@@ -1,15 +1,15 @@
 # SistemaMusica
 
-##INGRESO AL SISTEMA
+## INGRESO AL SISTEMA
 En esta pantalla el usuario tiene la opción de alternar entre 3 opciones en las cuales puede elegir:
 1) Iniciar sesión como administrador.
 2) Iniciar sesión como usuario.
 3) Registrarse.
 
-##NAVEGACION
+## NAVEGACION
 En cada inicio de sesión tanto en administrador, como en usuario el sistema posee un filtro en donde verifica con un usuario y una contraseña los usuarios registrados previamente para poder ingresar al sistema, por eso es fundamental registrarse como primer paso.
 
-##ADMINISTRADOR:
+## ADMINISTRADOR:
 En esta pantalla el administrador tiene la opción de alternar entre 2 menús con 4 opciones cada uno las cuales las elige según sus necesidades Entre ellas se encuentran:
 1) Funciones sobre usuarios.
 2) Funciones sobre canciones.
@@ -32,7 +32,7 @@ LISTAR POR TITULO: Ordena y muestra de manera alfabética todas las canciones qu
 LISTAR POR GENERO: Ordena y muestra separada por genero todas las canciones que se encuentran en el sistema.
 
 
-##USUARIO:
+## USUARIO:
 
 VER PERFIL: Muestra la informacióndel usuario que se encuentra utilizando el sistema.
 MOSTRAR PLAYLIST: Muestra las canciones escuchadas por el usuario.
@@ -40,7 +40,7 @@ ESCUCHAR CANCION: Agrega a la playlist de canciones del usuario, una canción qu
 MODIFICAR PLAYLIST: Borra una canción de la playlist.
 CANCIONES RECOMENDADAS: A partir de la última canción escuchada por el usuario, muestra por pantalla 3 canciones del mismo género.
 
-##REGISTRARSE:
+## REGISTRARSE:
 1) Registrarse como administrador. (Requiere una contraseña particular)
 2) Registrarse como usuario
 
@@ -64,4 +64,4 @@ usuarios sin prioridad de admin
 2) User: pablin
    Pass: 123
 
-Autores: @juliancq @agustpaz @pablogrizzo
+### Autores: @juliancq @agustpaz @pablogrizzo
